@@ -38,8 +38,8 @@ LEGAL_ASSISTANT/
 
 ### 1. Clone this repository
 ```bash
-git clone https://github.com/<your-username>/<repo-name>.git
-cd <repo-name>
+git clone https://github.com/Sheelam-Sunnyth/personal-ai-legal-assistant.git
+cd personal-ai-legal-assistant
 
 2. Install dependencies
 Make sure you have Python 3.10+ installed.
